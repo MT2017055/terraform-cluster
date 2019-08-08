@@ -7,7 +7,7 @@ variable "machine_type" {
 }
 
 variable "isolation" {
-  default = "public"
+  default = "private"
 }
 
 variable "private_vlan_id" {
