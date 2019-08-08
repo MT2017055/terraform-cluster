@@ -16,7 +16,7 @@ For apply phase
 terraform apply
 ```
 
-For destroy
+For destroy the terraform
 
 ```shell
 terraform destroy
