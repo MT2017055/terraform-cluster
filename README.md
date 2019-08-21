@@ -1,7 +1,6 @@
 # IBM cluster using Terraform 
 This example shows how to create a Kubernetes Cluster with Terraform.
-To run, configure your IBM Cloud provider
-
+To run, 
 For planning phase
 
 ```shell
