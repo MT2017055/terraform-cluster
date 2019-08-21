@@ -7,15 +7,15 @@ variable "machine_type" {
 }
 
 variable "isolation" {
-  default = "public"
+  default = "public_cloud"
 }
 
 variable "private_vlan_id" {
-  default = "2646169"
+  default = "2675474"
 }
 
 variable "public_vlan_id" {
-   default = "2646167"
+   default = "2675472"
 }
 
 variable "cluster_name" {
